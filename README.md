@@ -11,4 +11,6 @@ Lyx template for ASCE journal publications
 * sudo texhash
 
 # Lyx Install
-* Open Lyx program and reconfigure. 
+* Open Lyx program and *reconfigure*.
+* Copy ascelike-new-lyx.lyx to your own file name, i.e., myASCElike.lyx.
+* Open the file using Lyx and enjoy writing a paper to ASCE journals!
